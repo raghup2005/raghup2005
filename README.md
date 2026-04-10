@@ -9,9 +9,8 @@
 
 I design and build backend systems that are clean, maintainable, and production-ready.
 My focus is on **RESTful API architecture**, database schema design, and authentication systems using FastAPI and Python.
-Currently deepening my understanding of **Data Structures, Algorithms, and system design** to write more efficient software.
-completed 120+ dsa problems in neetcode
-and 50+ dsa problems in leetcode
+Currently deepening my understanding of **Data Structures, Algorithms, and system design** to write more efficient software.completed 120+ dsa problems in neetcode
+and 50+ problems in leetcode
 
 ---
 
@@ -51,13 +50,13 @@ Hybrid platform merging social interaction with marketplace features. Designed r
 Vice Captain — University Cricket Team
 
 **10th Grade** — Green Field School International (CBSE) · 2021 · 85%
-**12th Grade** - Green Field School International (CBSE) · 2023 · 64%
+**12th Grade** — Green Field School International (CBSE) · 2023 · 64%
 
 ---
 
 ## Currently
 
-- 📌 Solving DSA problems daily and solved 150 neetcode problems
+- 📌 Solving DSA problems daily
 - 🏗️ Building production-level backend systems
 - 📖 Studying system design fundamentals
 - 🎯 Actively seeking backend internship opportunities
@@ -67,9 +66,10 @@ Vice Captain — University Cricket Team
 ## Contact
 
 📧 [raghupolisetty5@gmail.com](mailto:raghupolisetty5@gmail.com)
-💼 [LinkedIn](www.linkedin.com/in/raghu-narayana-60b2282a8)
+💼 [LinkedIn](https://www.linkedin.com/in/raghu-narayana-60b2282a8)
 🐙 [github.com/raghup2005](https://github.com/raghup2005)
 📞 +91-6281048497
+
 
 
 
