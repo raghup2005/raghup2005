@@ -1,53 +1,72 @@
-# Hey, I'm Raghu Narayana 👋
+# Raghu Narayana
 
-> Backend Developer · FastAPI · Python · REST APIs
-
----
-
-## About me
-
-Backend developer from **Bangalore, India** — currently pursuing B.Tech in Computer Science at **Jain University** (2027).  
-I build **scalable REST APIs** with FastAPI and Python. Passionate about clean architecture, database design, and writing code that actually works in production.  
-Currently grinding **DSA** and exploring system design. Also Vice Captain of the university cricket team 🏏
+**Backend Engineer · FastAPI · Python · REST APIs**
+📍 Bangalore, India &nbsp;|&nbsp; 🎓 B.Tech CSE, Jain University (2027) &nbsp;|&nbsp; 🟢 Open to internships
 
 ---
 
-## Tech Stack
+## About
 
-**Languages:** Python · SQL · JavaScript · Java (basics)  
-**Backend:** FastAPI · REST API · JWT Auth · API Design  
-**Databases:** MySQL · PostgreSQL · SQLite  
-**Tools:** Git · GitHub · Postman · VS Code  
-
----
-
-## Featured Projects
-
-### 🛒 E-Commerce Backend API
-Scalable RESTful backend handling users, products, and orders. Includes JWT authentication, pagination, filtering, modular architecture, and optimized DB queries.  
-`FastAPI` `PostgreSQL` `JWT` `Postman`
-
-### 📱 Social Media Marketplace  
-Hybrid platform combining social interaction with marketplace functionality. APIs for posts, likes, comments, and product listings with relational DB modeling.  
-`FastAPI` `MySQL` `REST API` `Clean Architecture`
+I design and build backend systems that are clean, maintainable, and production-ready.
+My focus is on **RESTful API architecture**, database schema design, and authentication systems using FastAPI and Python.
+Currently deepening my understanding of **Data Structures, Algorithms, and system design** to write more efficient software.
 
 ---
 
-## GitHub Stats
+## Skills
 
-![Raghu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghup2005&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghup2005&layout=compact&hide_border=true)
+| Category | Technologies |
+|---|---|
+| Languages | Python · SQL · JavaScript · Java (basics) |
+| Backend | FastAPI · REST API Design · JWT Auth · API Optimization |
+| Databases | MySQL · PostgreSQL · SQLite · Schema Design |
+| Tools | Git · GitHub · Postman · VS Code |
+
+---
+
+## Projects
+
+### E-Commerce Backend API &nbsp;·&nbsp; [GitHub](#)
+
+Scalable RESTful API system managing users, products, and orders end-to-end. Built with modular architecture, JWT-based authentication, optimized DB queries, pagination, and input validation. Thoroughly tested with Postman.
+
+`FastAPI` `PostgreSQL` `JWT` `CRUD` `Pagination` `Input Validation`
+
+---
+
+### Social Media Marketplace &nbsp;·&nbsp; [GitHub](#)
+
+Hybrid platform merging social interaction with marketplace features. Designed relational DB models for users, posts, and transactions. APIs cover posts, likes, comments, and product listings.
+
+`FastAPI` `MySQL` `Relational DB` `Clean Architecture`
+
+---
+
+## Education
+
+**B.Tech Computer Science Engineering** — Jain University, Bangalore
+2023 – 2027 · CGPA: 8.17 · Currently 3rd Year, 6th Semester
+Vice Captain — University Cricket Team
+
+**10th Grade** — Green Field School International (CBSE) · 2021 · 85%
 
 ---
 
 ## Currently
 
-📌 Solving DSA problems daily · 🏗️ Building production-level backends · 📖 Learning system design · 🎯 Open to internships
+- 📌 Solving DSA problems daily
+- 🏗️ Building production-level backend systems
+- 📖 Studying system design fundamentals
+- 🎯 Actively seeking backend internship opportunities
 
 ---
 
-## Connect
+## Contact
 
-📧 raghupolisetty5@gmail.com · 💼 [LinkedIn](www.linkedin.com/in/raghu-narayana-60b2282a8) · 🐙 [github.com/raghup2005](https://github.com/raghup2005)
+📧 [raghupolisetty5@gmail.com](mailto:raghupolisetty5@gmail.com)
+💼 [LinkedIn](www.linkedin.com/in/raghu-narayana-60b2282a8)
+🐙 [github.com/raghup2005](https://github.com/raghup2005)
+📞 +91-6281048497
+
 
 
