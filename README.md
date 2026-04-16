@@ -26,20 +26,7 @@ and 50+ problems in leetcode
 ---
 
 ## Projects
-
-### E-Commerce Backend API &nbsp;·&nbsp; [GitHub](#)
-
-Scalable RESTful API system managing users, products, and orders end-to-end. Built with modular architecture, JWT-based authentication, optimized DB queries, pagination, and input validation. Thoroughly tested with Postman.
-
-`FastAPI` `PostgreSQL` `JWT` `CRUD` `Pagination` `Input Validation`
-
----
-
-### Social Media Marketplace &nbsp;·&nbsp; [GitHub](#)
-
-Hybrid platform merging social interaction with marketplace features. Designed relational DB models for users, posts, and transactions. APIs cover posts, likes, comments, and product listings.
-
-`FastAPI` `MySQL` `Relational DB` `Clean Architecture`
+coming soon
 
 ---
 
