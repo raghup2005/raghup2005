@@ -1,6 +1,6 @@
 # Raghu Narayana
 
-**Backend Engineer · FastAPI · Python · REST APIs**
+**Full stack developer · FastAPI · Python ·Frontend 
 📍 Bangalore, India &nbsp;|&nbsp; 🎓 B.Tech CSE, Jain University (2027) &nbsp;|&nbsp; 🟢 Open to internships
 
 ---
