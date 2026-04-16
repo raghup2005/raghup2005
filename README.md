@@ -18,10 +18,10 @@ and 50+ problems in leetcode
 
 | Category | Technologies |
 |---|---|
-| Languages | Python · SQL · JavaScript · Java (basics) |
-| Backend | FastAPI · REST API Design · JWT Auth · API Optimization |
-| Databases | MySQL · PostgreSQL · SQLite · Schema Design |
-| Tools | Git · GitHub · Postman · VS Code |
+| Languages | Python · SQL · JavaScript · Java (basics) 
+| Backend | FastAPI · REST API Design · JWT Auth · API Optimization 
+| Databases | MySQL · PostgreSQL · SQLite · Schema Design 
+| Tools | Git · GitHub · Postman · VS Code 
 
 ---
 
