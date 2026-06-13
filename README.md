@@ -47,27 +47,6 @@ Python | FastAPI | MySQL
 
 ---
 
-## Experience
-
-### Web Development Intern — Oasis Infobyte
-
-June 2026 – Present
-
-* Working on practical web development tasks
-* Building application components and improving development workflows
-* Applying software engineering fundamentals
-
-### Deloitte Data Analytics Virtual Intern
-
-April 2026
-
-* Worked on practical analytics tasks
-* Applied data analysis and visualization techniques
-* Learned structured problem-solving approaches
-
----
-
-
 **B.Tech Computer Science Engineering** — Jain University, Bangalore
 2023 – 2027 · CGPA: 8.17 · Currently 3rd Year, 6th Semester
 
