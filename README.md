@@ -26,24 +26,7 @@ and 50+ problems in leetcode
 ---
 
 ## Projects
-### RealWorldEd — Multi-Agent Simulation Platform
-
-Python | FastAPI | REST APIs
-
-* Multi-agent communication backend
-* Async request processing
-* Modular architecture
-* Context-aware interactions
-
-### E-Commerce Backend System
-
-Python | FastAPI | MySQL
-
-* Authentication and authorization
-* Product and order management
-* Database schema optimization
-* Scalable REST API design
-
+coming soon
 
 ---
 
