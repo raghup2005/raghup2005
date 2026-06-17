@@ -18,10 +18,11 @@ and 50+ problems in leetcode
 
 | Category | Technologies |
 |---|---|
-| Languages | Python · SQL · JavaScript · Java 
+| Languages | Python · SQL · Java . Html . Css 
 | Backend | FastAPI · REST API Design · JWT Auth · API Optimization 
 | Databases | MySQL · PostgreSQL · SQLite · Schema Design .NoSql
-| Tools | Git · GitHub · Postman · VS Code 
+| Tools | Git · GitHub · VS Code 
+|concepts| OS. System design
 
 ---
 
