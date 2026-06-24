@@ -20,7 +20,7 @@ and 50+ problems in leetcode
 |---|---|
 | Languages | Python · SQL · Java . Html . Css 
 | Backend | FastAPI · REST API Design · JWT Auth · API Optimization 
-| Databases | MySQL · PostgreSQL · SQLite · Schema Design .NoSql
+| Databases | MySQL · SQLite · Schema Design .NoSql
 | Tools | Git · GitHub · VS Code 
 |concepts| OS. System design
 
