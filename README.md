@@ -51,7 +51,7 @@ More details on each project are in my [GitHub repositories](https://github.com/
 **B.Tech Computer Science Engineering** — Jain University, Bangalore
 2023 – 2027 · CGPA: 8.26 · Currently Final Year
 
-**12th Grade** — Green Field School International (CBSE) · 2023 · 64%
+**12th Grade** — Green Field School International (CBSE) · 2023 · 65%
 
 **10th Grade** — Green Field School International (CBSE) · 2021 · 85%
 
