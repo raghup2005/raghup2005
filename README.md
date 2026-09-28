@@ -17,7 +17,7 @@ Currently deepening my understanding of **Data Structures, Algorithms, and syste
 
 | Category | Technologies |
 |---|---|
-| Languages | Python · SQL · Java · HTML · CSS |
+| Languages | Python · SQL · HTML · CSS |
 | Machine Learning | Scikit-learn · XGBoost · Random Forest · Feature Engineering · Model Evaluation · K-Fold Cross-Validation |
 | Data | Pandas · NumPy · EDA · Data Cleaning & Preprocessing |
 | Generative AI | Claude API · OpenAI API · LangChain · ChromaDB · RAG · Prompt Engineering |
